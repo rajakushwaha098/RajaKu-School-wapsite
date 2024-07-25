@@ -19,6 +19,73 @@ const ErrorPage = () => {
             <button>Go Back to Home</button>
           </NavLink>
         </div>
+        <div  style={{ visibility: "hidden" }}>
+
+
+
+The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+
+
+
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.    The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+
+            The page you are looking for does not exist. How you got here is a
+            mystery. But you can click the button below to go back to the
+            homepage.
+        </div>
       </div>
     
   );
