@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RajaKu-School-wapsite/static/css/main.26eb3308.css",
-    "main.js": "/RajaKu-School-wapsite/static/js/main.c1b46d4b.js",
+    "main.js": "/RajaKu-School-wapsite/static/js/main.6313a6c2.js",
     "static/media/eventvideo.mp4": "/RajaKu-School-wapsite/static/media/eventvideo.df1d9d32adb8e1efdc03.mp4",
     "static/media/activityvideo.mp4": "/RajaKu-School-wapsite/static/media/activityvideo.b762ac311b9f3098fe3a.mp4",
     "static/media/infaravideo.mp4": "/RajaKu-School-wapsite/static/media/infaravideo.6b56b39a5f8be65e64fb.mp4",
@@ -22,10 +22,10 @@
     "static/media/event2.jpg": "/RajaKu-School-wapsite/static/media/event2.54cda8ce68a37d806157.jpg",
     "index.html": "/RajaKu-School-wapsite/index.html",
     "main.26eb3308.css.map": "/RajaKu-School-wapsite/static/css/main.26eb3308.css.map",
-    "main.c1b46d4b.js.map": "/RajaKu-School-wapsite/static/js/main.c1b46d4b.js.map"
+    "main.6313a6c2.js.map": "/RajaKu-School-wapsite/static/js/main.6313a6c2.js.map"
   },
   "entrypoints": [
     "static/css/main.26eb3308.css",
-    "static/js/main.c1b46d4b.js"
+    "static/js/main.6313a6c2.js"
   ]
 }
