@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/RajaKu-School-wapsite/static/css/main.26eb3308.css",
+    "main.js": "/RajaKu-School-wapsite/static/js/main.c1b46d4b.js",
+    "static/media/eventvideo.mp4": "/RajaKu-School-wapsite/static/media/eventvideo.df1d9d32adb8e1efdc03.mp4",
+    "static/media/activityvideo.mp4": "/RajaKu-School-wapsite/static/media/activityvideo.b762ac311b9f3098fe3a.mp4",
+    "static/media/infaravideo.mp4": "/RajaKu-School-wapsite/static/media/infaravideo.6b56b39a5f8be65e64fb.mp4",
+    "static/media/4.jpg": "/RajaKu-School-wapsite/static/media/4.ec81f31bb3823bb95340.jpg",
+    "static/media/event1.jpg": "/RajaKu-School-wapsite/static/media/event1.625ef1fc94f7e3b4af3f.jpg",
+    "static/media/activity1.jpg": "/RajaKu-School-wapsite/static/media/activity1.665bd58610b75b5c5b30.jpg",
+    "static/media/teacher6.jpg": "/RajaKu-School-wapsite/static/media/teacher6.129b4111aa2116c9c31e.jpg",
+    "static/media/infera1.jpg": "/RajaKu-School-wapsite/static/media/infera1.c3367e09422fed3bcff2.jpg",
+    "static/media/SchoolLogo.png": "/RajaKu-School-wapsite/static/media/SchoolLogo.b452fa9d6f0a6e22c38c.png",
+    "static/media/teacher3.jpg": "/RajaKu-School-wapsite/static/media/teacher3.75a808e4436bf95fbed5.jpg",
+    "static/media/teacher2.jpg": "/RajaKu-School-wapsite/static/media/teacher2.e0faa7013a03d2bf2bb5.jpg",
+    "static/media/teacher4.jpg": "/RajaKu-School-wapsite/static/media/teacher4.1c64ae1cc90f5b6dd473.jpg",
+    "static/media/teacher5.jpg": "/RajaKu-School-wapsite/static/media/teacher5.0dfd95f22deb5a1ceca4.jpg",
+    "static/media/infera2.jpg": "/RajaKu-School-wapsite/static/media/infera2.40fefac7f8c8c18b0dfa.jpg",
+    "static/media/event3.jpg": "/RajaKu-School-wapsite/static/media/event3.217695636d60033b5abb.jpg",
+    "static/media/s1.jpg": "/RajaKu-School-wapsite/static/media/s1.43405756f906adef5c7a.jpg",
+    "static/media/activity2.jpg": "/RajaKu-School-wapsite/static/media/activity2.9ec9765d2c7b82181aca.jpg",
+    "static/media/event2.jpg": "/RajaKu-School-wapsite/static/media/event2.54cda8ce68a37d806157.jpg",
+    "index.html": "/RajaKu-School-wapsite/index.html",
+    "main.26eb3308.css.map": "/RajaKu-School-wapsite/static/css/main.26eb3308.css.map",
+    "main.c1b46d4b.js.map": "/RajaKu-School-wapsite/static/js/main.c1b46d4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26eb3308.css",
+    "static/js/main.c1b46d4b.js"
+  ]
+}
