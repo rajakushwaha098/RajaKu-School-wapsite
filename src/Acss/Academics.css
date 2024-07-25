@@ -1,0 +1,48 @@
+.academics {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  
+  .academics h1 {
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  .academics section {
+    margin-bottom: 20px;
+  }
+  
+  .academics h2 {
+    color: #2980b9;
+    border-bottom: 2px solid #2980b9;
+    padding-bottom: 5px;
+  }
+  
+  .academics h3 {
+    color: #2c3e50;
+    margin-top: 20px;
+  }
+  
+  .academics h4 {
+    color: #2c3e50;
+    margin-top: 15px;
+  }
+  
+  .academics ul {
+    margin: 10px 0;
+    padding-left: 20px;
+  }
+  
+  .academics li {
+    margin-bottom: 5px;
+  }
+  
+  .academics p {
+    margin: 10px 0;
+  }
+  
+  .academics strong {
+    color: #2980b9;
+  }
+  
